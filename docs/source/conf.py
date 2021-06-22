@@ -18,7 +18,7 @@ sys.path.insert(0, os.path.abspath('../../ocrtoc_dataset_toolkit'))
 # -- Project information -----------------------------------------------------
 
 project = 'ocrtoc_dataset_toolkit'
-copyright = '2021, MinghaoGou'
+copyright = '2021, Alibaba AI Lab'
 author = 'MinghaoGou'
 
 release = '0.0.0'

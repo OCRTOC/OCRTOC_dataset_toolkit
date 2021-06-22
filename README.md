@@ -33,7 +33,9 @@ python example_vis_6dpose.py --dataset_root YOUR_DATASET_ROOT
 ## Documentations
 
 We also provide detailed documentations for the toolkit. You may refer to the documentations for more details.
-You need to build the documentations locally by running the following command.
+The documentation is available at [here](https://ocrtoc-dataset-toolkit.readthedocs.io/en/latest/).
+
+You can also build the documentations locally by running the following command.
 
 ```bash
 cd OCRTOC_dataset_toolkit/docs
