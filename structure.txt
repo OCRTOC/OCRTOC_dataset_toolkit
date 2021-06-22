@@ -1,0 +1,55 @@
+root
+|
+--- scenes
+|   |
+|   --- 20210322194100
+|   |   |
+|   |   --- camera_poses
+|   |   |   |
+|   |   |   --- 0000.npy-xxxx.npy
+|   |   |
+|   |   --- depth_undistort
+|   |   |   |
+|   |   |   --- 0000.png-xxxx.png
+|   |   |
+|   |   --- rgb_undistort
+|   |   |   |
+|   |   |   --- 0000.png-xxxx.png
+|   |   |
+|   |   --- end_effector_pose
+|   |   |   |
+|   |   |   --- 0000.npy-xxxx.npy
+|   |   |
+|   |   --- seg_masks
+|   |   |   |
+|   |   |   --- 0000.npy-xxxx.npy
+|   |   |
+|   |   --- vis_masks
+|   |   |   |
+|   |   |   --- 0000.png-xxxx.png
+|   |   |
+|   |   --- object_poses
+|   |   |   |
+|   |   |   --- flat_screwdriver.npy
+|   |   |   |
+|   |   |   ......
+|   |   |
+|   |   --- object_list.txt
+|   |   |
+|   |   --- color_camK.npy
+|   |   |
+|   |   --- pcd_camK.npy
+|   |
+|   ......
+|
+--- rgb_pcd
+|   |
+|   --- a_cups.ply
+|   |
+|   ......
+|
+--- object_name_list.txt
+|
+--- scene_name_list.txt(optional)
+|
+......
