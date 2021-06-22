@@ -30,6 +30,7 @@ Python API
    :caption: Modules
 
    ocrtoc_dataset_toolkit
+   ocrtoc_dataset_toolkit.utils
 
 
 Indices and tables
