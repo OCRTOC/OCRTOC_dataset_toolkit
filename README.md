@@ -32,7 +32,7 @@ python example_vis_6dpose.py --dataset_root YOUR_DATASET_ROOT
 
 ## Documentations
 
-We also provide detailed documentations for the toolkit. You can refer to the documentations for more details.
+We also provide detailed documentation for the toolkit. You can refer to the documentation for more details.
 The documentation is available [here](https://ocrtoc-dataset-toolkit.readthedocs.io/en/latest/).
 
 You can also build the documentation locally by running the following command.
