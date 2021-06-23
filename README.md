@@ -1,4 +1,4 @@
-# OCRTOC DATASET Toolkit
+# OCRTOC Dataset Toolkit
 
 Python toolkit for OCRTOC dataset.
 
