@@ -10,8 +10,8 @@ pip install .
 # python3 is supported, python2 is not tested.
 ```
 
-## Dataset Preparation
-Download the dataset.
+## Download the Dataset
+The exact download address is saved in the download.sh file. To download the dataset, you can run the following command.
 
 ```bash
 bash download.sh YOUR_DATASET_ROOT
